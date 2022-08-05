@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939466980860",
+    "project_id": "pswinstagram-cbae2",
+    "storage_bucket": "pswinstagram-cbae2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939466980860:android:c461c8fc43aca955f80679",
+        "android_client_info": {
+          "package_name": "com.psw.pswinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939466980860-7ecebcln8p2lec9jlgtmj5j53fhircv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobdKc_AkScT2wOzRu2-3VuwO5ExzBjbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939466980860-7ecebcln8p2lec9jlgtmj5j53fhircv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
